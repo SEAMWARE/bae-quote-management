@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# Test dependencies; keep aligned with the test extra in pyproject.toml.
+pytest>=8,<10

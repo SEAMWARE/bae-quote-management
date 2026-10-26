@@ -1,0 +1,7 @@
+BAE Quote Management
+
+This Python compatibility implementation is based on the API and behavior of
+DOME-Marketplace/Quote-Management-Backend, Apache License 2.0.
+https://github.com/DOME-Marketplace/Quote-Management-Backend
+Reference revision: a2c6590ac105d79f98a92a192dcb774bab2a197f
+Notification template wording is derived from that project.
